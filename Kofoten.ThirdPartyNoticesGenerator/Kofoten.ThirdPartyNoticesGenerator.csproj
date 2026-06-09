@@ -9,4 +9,8 @@
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Kofoten.SimpleCli" Version="0.0.3" />
+  </ItemGroup>
+
 </Project>
